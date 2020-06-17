@@ -142,4 +142,3 @@ export class Data extends React.Component{
         )
     }
 }
-export {data1}
